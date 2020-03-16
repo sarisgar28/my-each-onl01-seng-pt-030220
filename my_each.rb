@@ -9,4 +9,5 @@ def my_each(word)
   word do |num|
     puts "1,2,3,4"
 end
+end
 

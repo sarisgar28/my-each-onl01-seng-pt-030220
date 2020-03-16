@@ -5,7 +5,7 @@ def my_each(collection)
     end
     yield
 end
- def my_each(argument)
+ def my_number(argument)
    while collection = 0
   return ["1,2,3,4"]
   end 

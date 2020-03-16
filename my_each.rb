@@ -4,5 +4,6 @@ def my_each(collection)
      return "1,2,3,4"
     end
 end
-
+def my_each(word)
+end
 

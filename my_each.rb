@@ -6,7 +6,8 @@ def my_each(collection)
     yield
 end
  def my_each(argument)
-
+   while collection = 0
+  return ["1,2,3,4"]
   end 
 
 

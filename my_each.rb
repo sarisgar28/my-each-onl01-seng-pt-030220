@@ -7,7 +7,7 @@ end
 def my_each(word)
   while word.length 
   word do |num|
-    puts "1,2,3,4"
-end
+      puts "1,2,3,4"
+  end
 end
 

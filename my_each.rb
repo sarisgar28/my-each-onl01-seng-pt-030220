@@ -6,7 +6,7 @@ def my_each(collection)
     yield
 end
  def my_number(argument)
-   while number = 0
+   number = 0
   return ["1,2,3,4"]
   end 
 

@@ -1,6 +1,7 @@
-def my_each(collection)  
-  collection.each do |index + 1|
-  puts "1,2,3,4"
+def my_each(collection) 
+  if collection == 0 
+  collection.each do |index|
+ return "1,2,3,4"
   end 
   yield 
 end
